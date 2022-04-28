@@ -1,16 +1,11 @@
-# minesweeper_app
+MineSweeper Game in Flutter
 
-A new Flutter project.
 
-## Getting Started
+|||||
+|---|---|---|---|
+|![Screenshot_1651124971](https://user-images.githubusercontent.com/63847876/165685900-4eb7ab9e-5a6d-495f-8d2e-922aba10ab14.png)|![Screenshot_1651125010](https://user-images.githubusercontent.com/63847876/165685906-2ccf046d-5480-45ff-9d2f-1760c0d2040e.png)|![Screenshot_1651125016](https://user-images.githubusercontent.com/63847876/165685910-c920f885-e584-417a-b17a-fad81b95f491.png)|![Screenshot_1651125064](https://user-images.githubusercontent.com/63847876/165685914-1eda6812-116c-4586-9a20-8ce4b2de2121.png)|
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
